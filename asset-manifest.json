@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-clock/static/css/main.8520ee7f.chunk.css",
+    "main.js": "/digital-clock/static/js/main.ba840a03.chunk.js",
+    "main.js.map": "/digital-clock/static/js/main.ba840a03.chunk.js.map",
+    "runtime-main.js": "/digital-clock/static/js/runtime-main.98b77d29.js",
+    "runtime-main.js.map": "/digital-clock/static/js/runtime-main.98b77d29.js.map",
+    "static/js/2.c9503379.chunk.js": "/digital-clock/static/js/2.c9503379.chunk.js",
+    "static/js/2.c9503379.chunk.js.map": "/digital-clock/static/js/2.c9503379.chunk.js.map",
+    "static/js/3.3b103eaa.chunk.js": "/digital-clock/static/js/3.3b103eaa.chunk.js",
+    "static/js/3.3b103eaa.chunk.js.map": "/digital-clock/static/js/3.3b103eaa.chunk.js.map",
+    "index.html": "/digital-clock/index.html",
+    "static/css/main.8520ee7f.chunk.css.map": "/digital-clock/static/css/main.8520ee7f.chunk.css.map",
+    "static/js/2.c9503379.chunk.js.LICENSE.txt": "/digital-clock/static/js/2.c9503379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b77d29.js",
+    "static/js/2.c9503379.chunk.js",
+    "static/css/main.8520ee7f.chunk.css",
+    "static/js/main.ba840a03.chunk.js"
+  ]
+}
